@@ -1,2 +1,1 @@
 # VoidGroup Website
-Voidstone website
